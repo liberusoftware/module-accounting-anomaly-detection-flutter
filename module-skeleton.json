@@ -1,0 +1,15 @@
+{
+  "repository": "module-accounting-anomaly-detection-flutter",
+  "capabilityKey": "liberusoftware/module-accounting-anomaly-detection",
+  "presentation": "mobile-flutter",
+  "package": "module_accounting_anomaly_detection_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/accounting/nextjs/anomaly-detection.md",
+  "presentationPlan": "projects/accounting/flutter/anomaly-detection.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting"
+  ]
+}
